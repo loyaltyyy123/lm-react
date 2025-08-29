@@ -1,5 +1,5 @@
 const Hello=()=>{
-    return (<h1>welcome to ci c pipeline</h1>)
+    return (<h1>welcome</h1>)
 }
 
 export default Hello;
